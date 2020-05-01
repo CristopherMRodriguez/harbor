@@ -31,7 +31,7 @@
                     <ul class="nav__list">
                         <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
                         <li class="nav__item"><a href="#services" class="nav__link">Our Services</a></li>
-                        <li class="nav__item"><a href="#pastJobs" class="nav__link">Past Work</a></li>
+                        <li class="nav__item"><a href="#ourprojects" class="nav__link">Our Projects</a></li>
                         <li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
                     </ul>
                 </nav>
@@ -157,7 +157,7 @@
        </section>
 
        <!--Past Jobs-->
-       <section class="my-work" id="pastJobs">
+       <section class="my-work" id="ourprojects">
         <h2 class="section__title section__title--work">Past Jobs</h2>
 
          <div class="portfolio">
