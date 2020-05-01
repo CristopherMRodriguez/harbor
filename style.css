@@ -218,17 +218,13 @@ header {
     background-blend-mode: multiply; 
 }
 
-.my-services li{
+.my-services ul{
     list-style: none;
+    padding: 0;
 }
 
 .my-services h3{
     color: var(--clr-light)
-}
-
-.services__list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .section__title--services{
@@ -245,6 +241,11 @@ header {
     background: var(--clr-light);
     opacity: .8;
 
+}
+
+.services__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 
