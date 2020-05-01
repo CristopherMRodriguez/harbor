@@ -218,6 +218,10 @@ header {
     background-blend-mode: multiply; 
 }
 
+.my-services li{
+    list-style: none;
+}
+
 .my-services h3{
     color: var(--clr-light)
 }
@@ -244,7 +248,7 @@ header {
 }
 
 
-/* Past Jobs */
+/* Our Projects */
 
 
 .my-work {
@@ -256,7 +260,6 @@ header {
 .section__title--work{
     margin: 0 auto 60px;    
 }
-
 
 .portfolio {
     display: grid;
