@@ -4,6 +4,9 @@
         <meta charset="UTF-8">
         <meta content="width=device-width, minimum-scale=1.0" name="viewport">
         <title>Harbor Restoration</title>
+        <meta name="description" content="Official homepage for Harbor Restoration LLC for all your construction needs. Based in LIC, NY.">
+	    <meta name="keywords" content="construction, contracting, business, restoration, buildings">
+	    <meta name="author" content="cristopherrodriguez.com">
         <link rel="icon" href="img/icon.png">
         <link rel="stylesheet" href="style.css"> 
 
