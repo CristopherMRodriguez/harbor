@@ -163,16 +163,36 @@
          <div class="portfolio">
 
              <a href="" class="portfolio__item" target="blank">
-                 <img src="img/th53M1UIZK.jpg" alt="Construction Project" class="portfolio__img" />
+                 <img src="img/20180906_104601.jpg" alt="Construction Project" class="portfolio__img" />
              </a>
-
-            <a href="" class="portfolio__item" target="blank">
-                <img src="img/th1X7EXD3P.jpg" alt="Construction Project" class="portfolio__img" />
-            </a>
 
              <a href=""" class="portfolio__item portfolio--item" target="blank">
-                 <img src="img/thHRG9UDAX.jpg" alt="Construction Project" class="portfolio__img" />
+                 <img src="img/20181025_102840.jpg" alt="Construction Project" class="portfolio__img" />
              </a>
+
+             <a href=""" class="portfolio__item portfolio--item" target="blank">
+                <img src="img/20181108_125158.jpg" alt="Construction Project" class="portfolio__img" />
+            </a>
+
+            <a href=""" class="portfolio__item portfolio--item" target="blank">
+                <img src="img/20181119_103621.jpg" alt="Construction Project" class="portfolio__img" />
+            </a>
+
+            <a href=""" class="portfolio__item portfolio--item" target="blank">
+                <img src="img/20190107_124756.jpg" alt="Construction Project" class="portfolio__img" />
+            </a>
+
+            <a href=""" class="portfolio__item portfolio--item" target="blank">
+                <img src="img/20190107_124806.jpg" alt="Construction Project" class="portfolio__img" />
+            </a>
+
+            <a href=""" class="portfolio__item portfolio--item" target="blank">
+                <img src="img/20190722_110915.jpg" alt="Construction Project" class="portfolio__img" />
+            </a>
+
+            <a href=""" class="portfolio__item portfolio--item" target="blank">
+                <img src="img/20190904_092703.jpg" alt="Construction Project" class="portfolio__img" />
+            </a>
 
          </div>
 
@@ -180,10 +200,10 @@
 
     <section class="contact" id="contact">
         <h2 class="section__title section__title--work">Contact</h2>
-        <p>(718) 866-4000<br>
-            32-02 Greenpoint Ave., 11101<br>
+        <p>(718) 867-4000<br>
+            32-03 Greenpoint Ave., 11101<br>
             Long Island City, 11101<br>
-            <a href="mailto:info@harborrestoration.com" class="contact__link">info@harborrestoration.com</a>
+            <a href="mailto:info@harborrestoration.design" class="contact__link">info@harborrestoration.design</a>
         </p>
     </section>
 
